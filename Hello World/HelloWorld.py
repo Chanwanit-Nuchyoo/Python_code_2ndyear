@@ -1,0 +1,1 @@
+print("It's over {0} {1}".format("nine thousand","!!!!!!"))
